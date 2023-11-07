@@ -1,0 +1,26 @@
+{
+  "name": "Jane Brooks",
+  "age": 30,
+  "address": {
+    "street": "Reho Park",
+    "city": "Ocvobi",
+    "state": "MT",
+    "zip": "90883"
+  },
+  "contact": {
+    "phone": "(300) 589-4411",
+    "servicePhone": "800137429"
+  },
+  "birthday": "1986-07-21T15:18:40.968Z",
+  "ip": "138.80.225.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Eco to abnicmu zikbibje refaz edecauzo gitu luc arogu mim dukug tumuzwa tokolwaj laad ijugacos renudfam. Ifzebifo rur huc denimbi sip za fez so mupje sen dome biswewpu ug ufbu pagvulzat havwef acu. Lu iknaba nijal anunoat go sezaw nonujsa oluduv gih muzmoaru dus jawi utkas sidlincof juho momaef kec ci. Dewo pevisa wufurja edama oziuj itmim kizek daja azazef bajgu tol jelwakzuj pu zulpa basipeep ho wipfugluc ko. Webrom wug heg zolu vaume gadkaveb ar eh doac kuibtum ac vek we azbubkuv urowejfi mod.",
+    "bio": "Ca ujiza dofumfug vagbeg nugozo venoz zopsoveg bapig nawtel ona gur cefab agi kavevicuf. Civ tupni vimce vo daflej sap go nifaha tiede fonaba gomire ketba pabup alzijcor de. Ec ke rop feepeec oveona duvdeezu pi evaho he coz nureli cebo nazifga jig us. Zo copteaso aw vijuv nec suwusded cu lidroka lag rawutiw vedogir zeso."
+  },
+  "apiKey": "8f883e1018cb0d6d1a77d2b70e49b791f6440d6ce8bb25d331083987c6a5231b",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
