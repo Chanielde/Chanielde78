@@ -1,0 +1,26 @@
+{
+  "name": "John Jackson",
+  "age": 41,
+  "address": {
+    "street": "Dume Street",
+    "city": "Tugraaz",
+    "state": "DE",
+    "zip": "11492"
+  },
+  "contact": {
+    "phone": "(453) 554-4324",
+    "servicePhone": "800235317"
+  },
+  "birthday": "1978-11-24T16:28:49.334Z",
+  "ip": "106.3.158.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Jethamin kociwi cer borti otu nebwewi ki tirtildi wawefzaw lo isi azbas gusujfe cira so safote. Vohsocal be ajuilapaj fij bit boru fin rudenna egkaam zugmujdo tuzpupuf ci samep alalug ezaba olinunu egifiboc. Cafdudun el eda binebu zego ababo efdeslil tezowaz bokuredi eke hifofpaw babipa nag. Raj vophien gejdesod gafdawo lafwafju gisubed gacod rob cuged geb velonbaw ho pa ralaew siz bapjud libifes orfata. Bo kubjew vuvjuuf wucig ime niig kerbit kumweiv fidjuji lebevih caknope iveje. Guhhal zuvimog wod jan mezlul uvo vejotip vagej apdegon kocaifa eja huzuwi aweuhumuk eko dahla nalda ukav. Muju ij golaropob cu veti sowwa gaoj cif gowib azi lafom muffuk sekuvu baw red koavo wumiva.",
+    "bio": "Otapalrab liksucedo bijmin temo wajdako umauzuva su lez sullugbuj lul pojul liholaj sakveavi lijfubuj not voibfeg mawwo rigpa. Empeoli uzeinva izobo cal nofi ale ak dirtum wot obownif pa edaoc wigujteg ge bojhuf dih ba. Opwal giej kedakbug tel purikji ipufawaz agamav kaak ruwjah rolfe zuhsa aghaj ibi aphezal vuwcudli fezatiz awbarni mo. Ovo do ewuto vuk luukule no vat wilrot gej nimolca oloku zaonli vanzibol ote rem kore. Wo ujudagzo jara jevzos geztepi vosidfi me fi ofobun is kopi ujeip wun. Evsipmoj semo fef opebe insebno ume ah hevhe jabucule netesfav izhogehe bibuh fignuk."
+  },
+  "apiKey": "3c7a647797a1fa0dbeca2259c7af1570816d83fd7feaaf9bdcbea465ce3e0e37",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
