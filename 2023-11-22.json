@@ -1,0 +1,26 @@
+{
+  "name": "Alice May",
+  "age": 58,
+  "address": {
+    "street": "Detaba Extension",
+    "city": "Zubehzo",
+    "state": "CO",
+    "zip": "83173"
+  },
+  "contact": {
+    "phone": "(421) 987-8687",
+    "servicePhone": "800965198"
+  },
+  "birthday": "2005-06-06T13:54:24.529Z",
+  "ip": "2.176.126.18",
+  "foo": "bar",
+  "profile": {
+    "about": "We heizwa voih ehe mulditzuf fivul fo uw govso kifok waj sovwiw peulso lorce jenzibca gosuvzo mokhovug. Duv fevi sofdi bako wupe sulo is kukof jetiod luh afujadozi bije. Gukjanpo kuhobe igle ehtu befuw cehogaz her kocteuf gopegjuh avifib cah israt ki. Metoca nevuffov ropbo gamdanih sig laf uraazu unuju koswiwa it pub ruaskov jenjuvfim iru.",
+    "bio": "Naelzo navlaj dohizlom ofuefa juj zeiz zatwogi neib regjug dev bej boda kudceku jidbevi dekuk. Fegzibi si cohej ula bihbef estizo isakef oniuwic pukfenci zivpa er nobnezi. Nu ten joto emuece nukgo ic rode javgo lofinnaj rozoeh hubi zemubeeb inu."
+  },
+  "apiKey": "537bf23df363b747aa11ed766b4251878965a5b33ca1fea3360a8835e3be54eb",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
