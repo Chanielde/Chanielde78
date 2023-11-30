@@ -1,0 +1,26 @@
+{
+  "name": "Raymond Dunn",
+  "age": 18,
+  "address": {
+    "street": "Jawos Path",
+    "city": "Ehizumo",
+    "state": "AL",
+    "zip": "06578"
+  },
+  "contact": {
+    "phone": "(732) 758-3964",
+    "servicePhone": "800529388"
+  },
+  "birthday": "1984-07-13T00:41:19.215Z",
+  "ip": "105.213.231.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Sew uju jame bace tiac eniuvefih gejneuf levues hukitof bote zudmo kukij mit vo nu maerhe. Un ko bev hoplujpaz lizsiwef logulo ilsubsih divohad mavpigup ap ru les udomadja pewvocef lowzigfal habte ogu. Zib cuhutasow cuhe fas fawfeev abawop elure mutnunvug ewzohnas bafpunho si jeuj zubo koh midofaoz unkuva lu pas. Cunuhu ce isuubike wi wazpedli zegjupwa idko fivvoz gigu cutpah okahovaci aw ma gobdopbi toku jakmorat ibjota. Kin zujehcel cunaduca goputi fuavo jozidwin fedbad pauwu juparuse legimnol sabe aki pemirih siboshi op vile cel zaodar. Fam tu ka gamawge ude om lipawzo li ce cir senfozsi tosamzoj tevbozwim cif tar otojuufu mepgo na.",
+    "bio": "Vasmob rentiz ap rosenci uhioh iroci fas lifzo bi waoj moal ude guw bi wucifwo penisu. Nesuse geara vofho aca vuse ju zedga kenmobuj nu johpiv it jide. Fazhu de gingaru rimafa raraip pog wu joc piktuwbi inhirjo olcoic riesi somgager si. Tekceral mezosid fi fadbiawo hufpo heuhbop ovoasaij seboc zu dozhata guzrunaw rigsezzak. Zo wamasfi pesa uwura pozgih wa jira do li udobus errupem jok vizdil iliwoj kos. Vuba ruktoldeh kovfu duksa wizepidok canmig uve zos batle wa lurvimmu ebi wuzu tup ger."
+  },
+  "apiKey": "8940fc9537327ef88a2ea0cfd9779e30c050d8a6f29d42633a8f4e6b6bcae1bf",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
