@@ -1,0 +1,26 @@
+{
+  "name": "Russell Herrera",
+  "age": 44,
+  "address": {
+    "street": "Dege Park",
+    "city": "Baphupus",
+    "state": "MD",
+    "zip": "74419"
+  },
+  "contact": {
+    "phone": "(213) 423-8973",
+    "servicePhone": "800295765"
+  },
+  "birthday": "2005-04-22T20:31:23.467Z",
+  "ip": "128.26.129.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Nohsene iza zof letjag ki afekuswa pibgin nimdepap uw maz uhifagin zaktoiz hidhim punlu bogukizon juhfuhrek rebanhi. Sak hip bufsazis iskiso iletuvar lu faak ha oz be ginatca eja hav vacobis. Elra wolvuwul fo ozuvuz zo re ac peverpum voccauf ukfugala latuz ihofobi.",
+    "bio": "Faom roop uvucosfo ajalaisi eviz uduka lu duffa mecug zuvafo nu bu wizem uvi cezpu. Hel suci zifvomzen gesasipu zo abkuz mudpan pauge icese jaci zaba za. Haseguf uznuwze ub us bultut howivez kugcajaf ifuvohe dat wu ocaodo vizor pedejibi wo vuzut."
+  },
+  "apiKey": "b93f3bba4b09cec5c9b6f78670da2e3602c1213f0722c52f47c93410ee0be756",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
