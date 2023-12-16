@@ -1,0 +1,26 @@
+{
+  "name": "Cornelia Jensen",
+  "age": 32,
+  "address": {
+    "street": "Jakka Park",
+    "city": "Pahujvor",
+    "state": "CA",
+    "zip": "82500"
+  },
+  "contact": {
+    "phone": "(330) 420-4384",
+    "servicePhone": "800735263"
+  },
+  "birthday": "1983-06-29T09:33:16.363Z",
+  "ip": "73.91.167.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne tuflebu wu su gegaku za kantikgaf sim fidmajez zihfuzo kofugu fuzo wu. Heliezi jopu afaju dubemeh okovubed oscotmef jobbu pe sonof guwoho rapmeowe ib ebpecju. Lofwizko daom oloit voh famaz zuvocci du wipkan odcupit joap damdoj zuikzi ikodu uhe pen. Nin vamocbab zikle uv ceccugha edfi ubho jijgusa uz ogge pan alait liw te vet.",
+    "bio": "Gi dibal uv ob inekuji deg fupcozzid vakbafad jo anuwo somefzu nenu sanuzec kepufsis. Ne zi hi zuv hus sar ake zu zija duborejo muptihug juplib niwojer un oc voromdi. Lat owo ujaju as powukoer edhi ta begahicim tuzpinfiw nog vuvru kicaoru towafduc. Vizeti hi nanet zad wahom lab vug telumle kif pamis doz cakok uko akomecu janjemus zovvaw wog."
+  },
+  "apiKey": "9e884b781d39c14b137b063ad097aff92a74879fd71d8a543a1b5308eeabcb07",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
