@@ -1,0 +1,26 @@
+{
+  "name": "Richard Jimenez",
+  "age": 19,
+  "address": {
+    "street": "Himu Extension",
+    "city": "Helead",
+    "state": "NM",
+    "zip": "88499"
+  },
+  "contact": {
+    "phone": "(781) 480-8675",
+    "servicePhone": "800924757"
+  },
+  "birthday": "1964-01-10T23:04:31.562Z",
+  "ip": "124.197.129.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Kehlafat do mapicun gekjerhu kemaj jederevap ga cinwizme ekadelem cagameti kol irehezjar lagjap duwe vosu. Ujeibenod eco vecnir nu kok guw veftiiha bijev zecozize zo emaiw jevzewgi kicejon. Zifem vilovize owcu unuiro garenupej tesalgew rej raz uhape li fafad dijiw va loicmag.",
+    "bio": "Tujjosow tacwopu zahnigab ivosi vifnuf tuhap ma zolewe utoko um lop de licalizun. Ce er guuh mifimipo viso fu miw de levezgod osmeg zolzig kidrofnog jomcataz. Go ke opoj cu jicip vuwupe bag nil pi sizrurzo ofakeru faharu ci aku vi mocues. Bukvit nosewta wicmabel inmu li inacza nip ufusa sahvuhir fuh uteticvi ze."
+  },
+  "apiKey": "0b4000239527f9097f237dc156ed01cdf201b6669c5e04c143eda763443033f3",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
