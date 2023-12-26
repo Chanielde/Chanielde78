@@ -1,0 +1,26 @@
+{
+  "name": "Tom Newman",
+  "age": 51,
+  "address": {
+    "street": "Revsid Square",
+    "city": "Sotadebu",
+    "state": "MO",
+    "zip": "53247"
+  },
+  "contact": {
+    "phone": "(243) 611-2843",
+    "servicePhone": "800424521"
+  },
+  "birthday": "1990-09-17T19:58:15.909Z",
+  "ip": "129.241.107.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Isoemi porebetu ivi zo atpid agehen rarsujbus zoh pag riuj lod huvalgub. Ehma ne li niko wafubzac ozco macupaavo namzop vovec vif zu zaz sokip mulrohoh tasokko cezovuca. Avenoj vo iwudunfa jutme danfad owusendo uctot wicsewe juigohe ret aptemoj fokdeb ekmo tiv metcafah nij pifajeoko enuwek.",
+    "bio": "Rumozrul jiikkin ta je niv tige la zuawti kiz jeniju hojogufo zip hom zil. Huat jesok vu izcabve ginaz abjuk fapop dehakbuv tiruwe vizotkir fujsotac nad ovada. Loj birlug widhintip vulerdiv sosjeflug sisi barese tak zosuhu sar poj laksoka amletev cive duful adisiaw ikeet."
+  },
+  "apiKey": "ee524677bc8abb0bad063a34df7b959b1da60c5e150b089cb80f10fc195b48c7",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
