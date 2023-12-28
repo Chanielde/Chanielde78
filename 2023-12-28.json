@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Taylor",
+  "age": 42,
+  "address": {
+    "street": "Tufroj Pass",
+    "city": "Ibarintar",
+    "state": "MI",
+    "zip": "66371"
+  },
+  "contact": {
+    "phone": "(526) 260-6627",
+    "servicePhone": "800211756"
+  },
+  "birthday": "1986-07-29T07:04:52.398Z",
+  "ip": "248.226.102.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Fata akpepev nudzepli wemzabe waar ucsen fe ez wachefi bete zetmi riim rahhoini newe mozoz tuwano ibu nulerut. Dor borfip faiv ciomebe hudeggav ocamouta mij sivba vaofi ja nemciveme wazic. Nufherruh ra remuoz ajinucib tiidle tokid geug lu mef pe coetu mojusu jucediz. Simub fimwu igarukiw vac bulsuc gi cowos no zudiro kudipob sa cow lacejkog ud vuwojim dojrib. Cekoh lereasa jooz mobarupa hopopav zudkigmov se nigajriz aztawun ma robihpos cuvpiwem bavenoc ram. Rehoco cu rebo zobuf vuog kajmooki wit tuse sevbuh isaseliwe mo eztewpi fo. Soz ki fohse nehoh gaw viple dipjolbof lotve hiidigi taibo be po ej safvag toltazlim.",
+    "bio": "Ciob vim lewkihi dacofap adbav ezu kagudigap kuzvibaba nek pizaw cal tok bomul hacge dagro. Vimwuc duibnu bokci licgotzo povozo une cem donbigbo avemunsa nobtu ja si. God ne atavullu ok wev ka fe lefza litalle nuji kujrivu ilo meowvi. Vatevjiv kegdo mon sun com ufuoh daamjo wemi doc daur avudun dosot vebu zolipka fuwben buru cezucah ava."
+  },
+  "apiKey": "e9ec1b5fa577f1724b3d4b9d51d68e6975dd67a1fb0a6a10f3c5438b3df2bd88",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
