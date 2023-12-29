@@ -1,0 +1,26 @@
+{
+  "name": "Amy Estrada",
+  "age": 45,
+  "address": {
+    "street": "Notgab Street",
+    "city": "Utomuhe",
+    "state": "SC",
+    "zip": "55113"
+  },
+  "contact": {
+    "phone": "(601) 638-3422",
+    "servicePhone": "800478421"
+  },
+  "birthday": "1971-04-25T09:23:51.135Z",
+  "ip": "71.106.4.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Devkiko neezo gig ni ca isbih kaci ebibu loshab iga butneb tifmo ecesuh tufego nu zivcitha. Durauc fusef so loama wupif ruto juv memduchib agtuon moefo duj lejvonum ni esago tulo ref. Fawjepced di radu kat gihopoli tuhenduw sav raaz ew pavuca degosgi zihjedu furope dodjaz reol rufijwol sojava. Lu rizubbug zuem mu miobowek vosutuc ur pigfaf wocatoiva bufzu nemacika far gojic bocogebu peci viigorog hok owoafe. Wurovo ve mivtegliw kefri umnam fu azhodun fe nahje ti gawhim dirij dolfo peoleuto dagi. Dohlewod far finujdoj dojvumtu ekomazvo ihzubu wumlatcav jigtufo ub re taw ibojojvid fi buhujcen.",
+    "bio": "Obhad bovki jumam ig viapace suecocut onulumo ilpoled ti ecear vibmenho damzir fehgabed poctegzif. Titoju uc pasrohlu refbohbes uwfa gakofli bapreisa vaeko cudfozuj wud lozuli re kewmul cuoh duvwaco boh cadra vod. Tuba gijobce rehvufpu huvilati vasa dahav lidikopij tu kamilab niz futkov jufruz uzezup purut dadatji emteej."
+  },
+  "apiKey": "aa43adbfed4181ab43b4883c18c57b2f1ce967a98e795dba3f17d21ecc737dbe",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
