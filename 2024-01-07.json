@@ -1,0 +1,26 @@
+{
+  "name": "Alice Salazar",
+  "age": 20,
+  "address": {
+    "street": "Nunow Circle",
+    "city": "Umumuajo",
+    "state": "NE",
+    "zip": "83189"
+  },
+  "contact": {
+    "phone": "(404) 722-5367",
+    "servicePhone": "800211929"
+  },
+  "birthday": "1963-09-19T05:46:57.792Z",
+  "ip": "111.2.64.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Hikla epifa heh ke jazovru muhu wedi juibvu fivtuz wevepsav pedzij cudad bafoh nagujon nikog ohnubo pocomlek fipwufwij. Vucan caw wieta low wevpez ismo husomeva iro niwtigco fiuf pu cakhe. Mu va rid seta ej ta ep ragif oro zam oru mikaj wok bavgansa jebip fukusjov we hacickov.",
+    "bio": "Receb ah okiepo paseki boovkab oc lutovu gajdola sahtuhci ru boweshov ahwuvwe korziwwag lozigvep. Jouh kawgo dodi ilgudbah dokof nigkiehi dekiov wiz bifuvoh buub elaidjef ji icunev koche. Ut zohmukize sahve ifazepom ibviira tarvep lelhuphi widoko soj omi esifop dovop meah dej lu roeva ru."
+  },
+  "apiKey": "fd544558f945e5cbf47baefc086af88ca78b26b0e3f3475fc8205efd4b036ff6",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
