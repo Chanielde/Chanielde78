@@ -1,0 +1,26 @@
+{
+  "name": "John Black",
+  "age": 60,
+  "address": {
+    "street": "Kutwof Road",
+    "city": "Bagosni",
+    "state": "AK",
+    "zip": "80304"
+  },
+  "contact": {
+    "phone": "(986) 633-1043",
+    "servicePhone": "800799749"
+  },
+  "birthday": "2001-01-09T03:59:39.372Z",
+  "ip": "251.129.89.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivimu utohegsil ke bodhot el jotajve eg celfozdi lijwum helkiz pogto coevo kuewu wa fokbiw ewicote. Javfikuw jumipa mo ak valtunjo awobagi lagug oriozwaw du apago cupfo kitmoak deg nijacif kovati zon ow. Urfu eglon hij hi igos bujjodok beuhen lul hihecu jezfisas cipsa ebo binziika rujmawkag jopmu gi. Dombonu palkew ofto um nowic vabolka cugipsur uf guwmevwe dipka fef hizjannem peoles lolin.",
+    "bio": "Janzu imzi paekaedi jile ko te zuk sus sosafof tuwrewa ne ha wuaraari. Oh wimuf gigaubi eze kodlum he wutaina we nobzocmup wuge gewa egemi musuw. Nokve uvhu lomcev hifjogbim coz telijipec otu egzofef ap juba anda gipaj wowcac migotca ekoliffa some dic ipnigo. Gam ugitah wowwihuk kalahar kijce kerca jowug afowpaz aberaf sopnamven fu amawo inapodci so em. Zuhohoiv poknu talhiki de pasewva diabciw uguuz fot faz oruzomo govsofow po esiga tihzud ho."
+  },
+  "apiKey": "197f17072cca97fc472d490328c9b87000096b649f0d143e636f55347497e4f6",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
