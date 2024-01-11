@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Reyes",
+  "age": 52,
+  "address": {
+    "street": "Dait Path",
+    "city": "Duwsipeg",
+    "state": "TN",
+    "zip": "96515"
+  },
+  "contact": {
+    "phone": "(520) 371-2313",
+    "servicePhone": "800831729"
+  },
+  "birthday": "1965-12-21T13:49:27.029Z",
+  "ip": "164.109.80.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Fucasoj uteriec fuferluz gibwekek paekasu tipelu vo upsecil fa ume cuv tis ev vog. Ilahak hu ri coj ucevasi jiza ebdow zejihoz jaswo mavorid jo nuf. Bigew vag tedewo vunsef wej toagole lew boav gir osicepu ef nuzawpi zeni cemvu tigajah. Fe ti riwzudhaw ki arojova ta duj derome pubigabi muhgoz bosfumte ges.",
+    "bio": "Ebajoc lo firbefhe ro jubtig ned ju bakba hoheb veegara sukpehez tan enpomuv esdibuma fopnidzoz kejlol afu. Pumapve adfenug pe wavokiru dac de ehi uz bukpa ki dagdufi aw vit bag feninik. Sehris nisetoju muz olajfum poweumu tuikokus cobhi ci to jujel ned josihew hoobbuj lumof vacuro dunapbo ina."
+  },
+  "apiKey": "5709505a196cf646f3569b4c8144929445b8df63691b27b0832befb2154a2b78",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
