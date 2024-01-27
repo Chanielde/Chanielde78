@@ -1,0 +1,26 @@
+{
+  "name": "Ola Wong",
+  "age": 49,
+  "address": {
+    "street": "Epime Pass",
+    "city": "Ehpuesa",
+    "state": "OH",
+    "zip": "62446"
+  },
+  "contact": {
+    "phone": "(404) 636-7183",
+    "servicePhone": "800354857"
+  },
+  "birthday": "1978-05-04T19:20:16.048Z",
+  "ip": "222.16.158.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Wo ro hobawwoc nal jofoc vodcuom ohzuot dinpi caz cahpacoc di unpumpo abzohri fo kuluh hatjawi juutmej. Pac werem binej evujaf elel vuw giga fogeva wirucav fuk hezraoba tabe kopaz muvam hadi be pe fi. Piav le zavajip hu hovhu rafiilo mef unolemzu filwovob ka zohabdin beejo wiwkilna wogas puhun zezluda hawejge. Zuduvgum apu geji napojuse fac jumwar fi cupi vovujnaf bophumoc lo nalibon gihfar. Wof uwu ufase wimsuj ziliv irepe teda tepo fiw rantiwi ade efa an rikiij odjioci. Vu movap kejer ec huas cetsoj ico ho be ge asvi iwif carko maloci zek uv.",
+    "bio": "Gapotci upajalpi dazo ubilari pizac racle vedu dis wobtokno cuw vavcamim alusocta ume. Zehe pavuh ibufoiwa nawno najdovu vis awu mom amgupda goknato pahatut nehluf uco gom jetluva rujulle. Zibgimtum omaciju bibef fampob caliv ufli kadvu vajpo sebor gobbagso wisda mopsagwe ra nudibho."
+  },
+  "apiKey": "d85340b64eb3f18bc9a017474a9fd3b2e44daba6a77fa9a68e2d86aba8532456",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
