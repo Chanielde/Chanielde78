@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Robinson",
+  "age": 43,
+  "address": {
+    "street": "Tamav View",
+    "city": "Osicja",
+    "state": "AZ",
+    "zip": "02549"
+  },
+  "contact": {
+    "phone": "(779) 735-2937",
+    "servicePhone": "800751659"
+  },
+  "birthday": "1983-02-22T05:25:52.255Z",
+  "ip": "207.12.214.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Sisgigesa bod izi iri mancugu remsodde mamge dopjigu ahtiagi hoboak pa cazsa wij hibgulo ci mumneg popro ciov. Riwduj ibtig emacur keh omiru jippo iru zatbe re telfica ucovehdo kepkukmez etwaco ufezurde. Tuoc li mibin nefejvup eru kusolgi heeh uzo vik es acopoczup dapru fuwotwop jeknoh dinunme.",
+    "bio": "Mov hibtovor ri jev nodimju udbo jab be zekive deekeken ole rawa gero epiivion. Sobgol ev cuzamwe core legut uzu ma pal gacute hube zot ewi rolbopup mem no ba bob goca. Tip serrus ponwap sevo nogu miz ri sazacwer zaek ebu kukev loawka sa warud zov ceboma rimbusun. Onetej guk neat robziuha mavwer piv mobol kiol po sitoga hiotalal bibef bohjit wucureuz li re jitwuwrum subavzu."
+  },
+  "apiKey": "00d23616c6cf5c224543b53ec2295efa49b68b0472393e562c4a37f43194174b",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
