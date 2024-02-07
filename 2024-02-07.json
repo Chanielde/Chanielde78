@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Briggs",
+  "age": 19,
+  "address": {
+    "street": "Hiho Drive",
+    "city": "Carutosu",
+    "state": "NJ",
+    "zip": "80085"
+  },
+  "contact": {
+    "phone": "(686) 905-6392",
+    "servicePhone": "800413273"
+  },
+  "birthday": "1960-11-08T12:07:37.795Z",
+  "ip": "94.21.243.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Jakvow nijes duholo fun igahi ojwide go mebjot neb id jahala sazla. Riz lafi epo on agu bibmurle nososutig ijvojaw luwiw fijewne linab zon. Ce nugce buz gon ahoga ne jozor somozo jonipi fepetcuk cirac jutkofaga nijit. Beceke zekre suha lun petoga na van atizut vitahna ceiw dolpopgez tonog vi vefufges lup wekioc ekaosa doavici.",
+    "bio": "Tufin otu sap emi lo li raloife ve zo ova jofgi ew elafozsof fadaj. Uwagis cabogir owkobiju luzdomra rinewgu vehdiro rarigacu jaf mun ulwobdod zaliwhiz tirdog co eju zad. Ruk kooto uc mucni zojbomzo kag hokvo owaed lela agi vaj keb epa tampiri pa et. Katad gelada ezivo jekolef waz bu kunok wiit ra jev ecoek am hobim pitgakko. Ov ac pisac bej cu butsa niibian ohopefo lug tumbegti ehi ularup nedoti rasfoc focpig dedcorase. Ponucjat cebi ve vaglenuc gaiju soinsot igwes inwo suaz jodfoobi mufpu pi jiwip zuvmo peola nudlulel me."
+  },
+  "apiKey": "7d942de4edd1953b913bbecf356b8e8d2c4966c617bb49a00cfee4f79ea1c914",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
