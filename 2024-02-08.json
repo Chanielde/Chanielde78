@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Ball",
+  "age": 43,
+  "address": {
+    "street": "Paugi Trail",
+    "city": "Tevizko",
+    "state": "NC",
+    "zip": "33444"
+  },
+  "contact": {
+    "phone": "(351) 700-1404",
+    "servicePhone": "800797529"
+  },
+  "birthday": "1999-12-15T14:03:10.721Z",
+  "ip": "205.47.210.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Nap et co bafaz hu buwva ashigok cunal lu miljet kin pe tav ne te. Lenbitcij gil bi curiz vi gej jisde hiipipe fa vev wazolhe lo dir ag fajar lih jodi. Ti ocotlo vu ow faj ma wihcu ze mawzez busgamgam asne uzavuv. Gob tajcan uw aj jevjij rurcinnib sivesi jumwo abu oji retemeli diz jo egofod cuishu rozsik jic. Tu wa kujaluwi nubutzeh conuhha faturadu jat weldaba kibohi sailiw dod go bisupfi etif ololom.",
+    "bio": "Ishedtuc udilcam diven dig nanarobog relmefuf tav juomugu ci mo geba no nopvu fa pizagi. Acbevem pefjigoce suafwu olci masza jerjidbe ejhib dupcavpim ri budug wozokeila gugjuzzi hiahepo hovirpa bafluic. Ep cidkahebo lutoka roc defiivo zel el tamlo sa wa himfefep adaih kavuba zigruso feugoni du suv."
+  },
+  "apiKey": "bad1882760e1bb7246a1d59eb7b86357a1cc6f867e596c2c737ddc19a0df175b",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
