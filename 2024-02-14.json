@@ -1,0 +1,26 @@
+{
+  "name": "Victoria Watts",
+  "age": 32,
+  "address": {
+    "street": "Unare Manor",
+    "city": "Zuatje",
+    "state": "NY",
+    "zip": "52353"
+  },
+  "contact": {
+    "phone": "(279) 649-5335",
+    "servicePhone": "800318859"
+  },
+  "birthday": "1960-10-31T21:12:38.083Z",
+  "ip": "41.248.112.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Onmiv vi bojrumdo anheg jacmiz goj fosrifi hafiza so warzuj hafsazo vugku hoc orfo pikof vegsob. Er ed jajbubvod kodade iknini ida jelwobe wi molinne sopzu rewuwih kupo pic zikif. Unebo kajo gufbodlil joobo eneguvfo epavod wej vihim lehusu tajabgo sic gehovep zi cuznotsor nozge cemge ral fedre.",
+    "bio": "Nuhivid cisfuvi iwsazup zihohubof ugiri ib vaib zuwsunve ukuwic uvwuj watdun uv bofgik bockiv ta ju ume. Boplat wojta le ece zur tu zucgi eflatod ruaffi fev gahe iloh lu jic wunadda redohus. Tak iba zugile deegfup wifbej cik esa kinig lufparhi nu piigicav do vanowhov dir bifev."
+  },
+  "apiKey": "36c87f1ae014051ebaf5b5526a45f64ce4823827cac38c8e831cd130dffe61fc",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
