@@ -1,0 +1,26 @@
+{
+  "name": "Danny Cruz",
+  "age": 27,
+  "address": {
+    "street": "Zemjo Avenue",
+    "city": "Fozdeif",
+    "state": "AZ",
+    "zip": "49961"
+  },
+  "contact": {
+    "phone": "(748) 816-9208",
+    "servicePhone": "800215982"
+  },
+  "birthday": "1984-11-18T07:04:52.056Z",
+  "ip": "128.17.166.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Ku mu nam cewru odi zizvar possovo livdov debnoru to vavla nanoloj vig asisic peibzo. Rojfulti om wut cal wiwiw rezga lu karok hi bu hicfir fo se ginamge. Oj jodja pu li puipeuz evagiwog pokgemdo nol pivwuh zarmisak ajfirgiw ajzuf cemsot ovegasof.",
+    "bio": "Epimuote ojuaf ahiuja uwagi ro bip pavog ucoah kaj jafur alietetos dita jos. Bi tiobwo fasde uz jitizo hepken jogem podga labu wikpon levbokpur pekabos. Juffitiv sebo viv febgek mu bel fusver ceref ijwo rorzel ocahe vunnod fojop go kica nuz amwugem ja. Emsaf finwe lowujoj bah fizzer tatod jowwiv cenrofuk fefzekjes wovol hoz okdeuk cuecu kigi riv sim."
+  },
+  "apiKey": "6b1c9da944faad0ef154212d1acbfd678a0c09c438f93b52263782be5b522ae3",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
