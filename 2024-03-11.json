@@ -1,0 +1,26 @@
+{
+  "name": "Joel Little",
+  "age": 25,
+  "address": {
+    "street": "Icobu Park",
+    "city": "Busewo",
+    "state": "GA",
+    "zip": "81498"
+  },
+  "contact": {
+    "phone": "(275) 911-9436",
+    "servicePhone": "800564848"
+  },
+  "birthday": "1970-04-06T16:26:34.284Z",
+  "ip": "1.162.84.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Pu lihap kow wispatir gegrefe zarbuca kaljorge utaujsiv somvo lujecec siltimac ifaseaka upiuduwed re. Davah saan tehatobe pe emenewti sucjufhif ot reduk va uc itaran pabuc murmesuf voc ezivugub his ful wuvu. Hevo niamdin dara sidho in ju to ko akeuzpe rab sovozu lagipe sateh. Gauzo zuuko um woghavi jodipoc ha emiluetu noh fik liwsac voguufe beocoole cuhot do. Jewa fictun afbos ubuwarac riljomju bekfasfik ablasluc aharilvim jukatfi lublan genek wo moji kajiso. Gu sere pimdefo jemaf paruboke gohfaso zoru besi jusib dazpimiz ogcugju gapju hij itueppib cobiwul di gej.",
+    "bio": "Pa hezuruh sitse zaogi rab poh ti kihlumo iznuso oce ful ituke waj ifoniz rugi zipnem zaisusal ra. Enekek zu im bajumauzi piloswen afeso piwlupot peecwul uc nak elrowub dan. Bodtujim sam dob mevla vog bi giwugib bu po maojno nif esbatma nuripvec."
+  },
+  "apiKey": "34212bdef4f4c906db416e0e189f42e88cfe8a3e4ecb5b481d48eedf7a1a32f5",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
