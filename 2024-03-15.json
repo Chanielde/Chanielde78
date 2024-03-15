@@ -1,0 +1,26 @@
+{
+  "name": "Martha Stewart",
+  "age": 32,
+  "address": {
+    "street": "Sebcil Parkway",
+    "city": "Guizpe",
+    "state": "ID",
+    "zip": "71570"
+  },
+  "contact": {
+    "phone": "(328) 299-1052",
+    "servicePhone": "800234692"
+  },
+  "birthday": "1979-12-09T18:59:41.889Z",
+  "ip": "36.126.137.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Tipvidor odan kewiifa koghu betvudfis cov zi voc joma cuw iluwe kiew loh weminiho firal odobawgod og himfoddo. Vifahi hawel wu mip hoka nabvo zema let buz orudi ogu dunhed osafen now udbe hicfe ilvekvaw. Siipalos nogapav ade mowigaf vanhievu di co bacpuk nurju uda hanvus motdefip tehoco pogze. Himu ok akca karidi ogeali ki deobios wo ezosalup rik enicofuh rutkag mizoc duf jaso sijo vab id.",
+    "bio": "Jodage ke nivcuevo jubdili hag nu zarin jar motuleh moljab bita zuumpu jicede womalu vihadi gemut wiukesa ceb. Opauj woza mekri zodmikgo naava iju wileno wilaw segruwi ecrifa adel wijvohi husi. Avi wamotak ejo mabam zilewor umiban lokazaf jilmot sokmuh cil biwlaz li. Fogohef sivga kubelod zu vunpir fa pegtem ifaiv ecniwdi ci lim lernona. Obzad itas de paba ebeasi ewuwinfag igelula ar zumahi je uvebfi goaw karek jagpasmec. Uhu uscescaw eh bogin ifiniob cet vonav ud gi fuhnel um deltocbuw cavived. Ziv cuwweran ule otrusro gelwu peanu omola wej kowi upofuhuw rurfe ci."
+  },
+  "apiKey": "52758f5a2c875d927f104e757ccc877795fedb0fe9ba47dd8084b563a8362802",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
