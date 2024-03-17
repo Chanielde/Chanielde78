@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Jordan",
+  "age": 27,
+  "address": {
+    "street": "Pondow Circle",
+    "city": "Esuvaew",
+    "state": "ME",
+    "zip": "62348"
+  },
+  "contact": {
+    "phone": "(617) 410-9765",
+    "servicePhone": "800344498"
+  },
+  "birthday": "1968-07-15T21:58:08.945Z",
+  "ip": "254.234.166.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Caf buisdo sikap egaj papaci ru li fal egwi mebdiuk fuwpa kum. Tufi wemehce ogohizfo nek forakohez ilnepvok cerucgu muwi ino toes lawo uwvew. Mocnu voundu da vul sesleg adoma namrofdu zerkivhur wujiguoh zece ho tagzikba hac iticeul fazusca dihtej luc. Tumgiczim afa fo fukfep hujrubam fo fome ena sowidom lonipep mavjicez limdijmi memve hife arecurih zambap.",
+    "bio": "Do ru biz gu kitib ce homu rud bupe jise baheni zi dohuvsit. Gec getno rerof osjavo moivnet ali uvrihoro opkemal wiv neli jusucfa lalolu wup ifubodaf. Himid seceluza pupo ni jariwabus vidpip sitane pa lafnogwi howi gujed ku la kidredsa gihuw ungem use. Occutvu epof sucdow eh luffozlum wovusleg aridap une nidriwvut velsavaj ban jef."
+  },
+  "apiKey": "1de9396d6fb157b9a066b1abb614c7c2054dfe3007859cd621dd51fe5896def1",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
