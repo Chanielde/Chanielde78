@@ -1,0 +1,26 @@
+{
+  "name": "Jim Greene",
+  "age": 23,
+  "address": {
+    "street": "Mahuf Highway",
+    "city": "Poboljaw",
+    "state": "KY",
+    "zip": "25048"
+  },
+  "contact": {
+    "phone": "(945) 551-6308",
+    "servicePhone": "800532689"
+  },
+  "birthday": "2001-03-18T23:48:36.936Z",
+  "ip": "10.184.66.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Sozja ziwse koug mep ga vahle mol durpekzap nu ojomivi meccac paamra ascirris gat. Oz dupe fa ceblet nuzjurec cal idge biine rivo azazebma ipoojko kimo so lun. Lefezet fofwud lewugi ke ifhizo si fuva avamiag sisivop mo saogava vuzzi ec mobevef.",
+    "bio": "Gabtoje lirheteg job uscabeg med jub ewwihoz ve abbifin ecavok namzed pab so ac gihagni coc nusuh ofota. Lita ze imahawmul kac ve mewhuc epunu ota nobaclu japhow piez uwe ce. Jak alezo tikobrib rehnimir jivmat tihim haded nu lizbu genmi simjufge tolsagoh dewnatdaj ratkojhiw paabuaw taka dibtuuda."
+  },
+  "apiKey": "41f8e40bfde777c30e408e6a1edc4afd1b455e6445d6d1d0cb70633fdd98dbcf",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
