@@ -1,0 +1,26 @@
+{
+  "name": "Eric Ward",
+  "age": 26,
+  "address": {
+    "street": "Buur Plaza",
+    "city": "Riwiporo",
+    "state": "OR",
+    "zip": "05425"
+  },
+  "contact": {
+    "phone": "(436) 610-9351",
+    "servicePhone": "800882744"
+  },
+  "birthday": "1999-05-10T00:13:31.105Z",
+  "ip": "101.189.126.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Hesi cabhesew bav duardo jo sofhu vegeho to ewo iwi monkoled wipubi bec ob ujefo keula cik hauz. Zohekow giltu huk ram log injep be ne diba jif gefejsa fema mimi efieji veepu. Ciwe roepu narije cemdane roc refzum josdat dugti obi vurgiw be ajujudda joh palmur. Gakubcad niifuz sol mat fow panfiwiga cijir hevjelus mid gi etodad ju nokehcih.",
+    "bio": "Buwtu da hogwe rejbofla jaef ho sunjeneta etoug bosiv uduka osopu diverec neikwut et fonolo vuel unjeseg sa. Mu eli hugtodoz betevu noes wihe cabapdu risuc calcaki wa gawem ete. Nuc ergewi os cinobe kogku pulascu fopnomda kutogu cer fih midho legisboj vof. Lumo livpofov kal reta uw ip riz ohreko litveda wi luug racfabwoj uvakikti kil. Kupva devosouja goma italve geroezu lahru vu dofbo la lerewri kisvairi sijefo sa pa."
+  },
+  "apiKey": "f3a7b826efa0a31450fc30def3773ef8c3c13a5acd988d250ab6ec3db4d48846",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
