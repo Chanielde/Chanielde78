@@ -1,0 +1,26 @@
+{
+  "name": "Cameron Alvarado",
+  "age": 18,
+  "address": {
+    "street": "Imuso Lane",
+    "city": "Highucat",
+    "state": "CO",
+    "zip": "84227"
+  },
+  "contact": {
+    "phone": "(817) 554-7354",
+    "servicePhone": "800494193"
+  },
+  "birthday": "1992-08-17T05:09:49.389Z",
+  "ip": "206.47.188.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Hovmo laz majmoefe vilalhep vur jaj luclup giure ribul uro uc vajito. Hum mocak ugkikter jihmubmup gaf sid novpoze jal lu mawe se lovad vakis. Vici kazvinmoz uddu jijro el fu lantes disoriri duk to ademiz wufav otuhkep. Hi bu tijigvos vihwu nisbigoj incemag wagus sup vu fo rof waci acu ufpi urbusow ul vov. Vawa cigacvig socudo rakdi hato uwarirado vauj zugaviz jaevlo viin biazuin az. Volnem puje zowipte hikjus londapic digsed gu bemajo mik kahuzazi kercud ocimoj hitubkiz mihreovo sut jivcehla.",
+    "bio": "Ji cila li on zewjoc jajvoblin tam wikbal zassa tighit zetne adakujuva. Avkem faszosoc toasaco sarni vosmavek kekik kuvos olohwoz ufuzunsek pot puwibgez ew uha. Bag ozwoaco foteh no lor feegjo kuj me peek mefji nime pieshi. Furbuwjav tup ogibo loacwe ijuufuzo ruh cu imjefsa gaip wazhihisa sovtecire gefbuhlo. Ri dek biz culippa fair figag ogetam kopcateh ara vib um gi."
+  },
+  "apiKey": "b8f5f77cb0dd2ac367ba52a62c98595a710dbb532d11ea9b47110afc0da9d5fd",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
