@@ -1,0 +1,26 @@
+{
+  "name": "Billy McLaughlin",
+  "age": 52,
+  "address": {
+    "street": "Werop Mill",
+    "city": "Sirulen",
+    "state": "NC",
+    "zip": "62464"
+  },
+  "contact": {
+    "phone": "(855) 884-3146",
+    "servicePhone": "800293449"
+  },
+  "birthday": "1989-06-21T18:26:28.360Z",
+  "ip": "185.22.94.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Paca sigupeupi gaz tum zorgo rogetuti rosva hez nu ri jomleb dulendo ibelawji da. Ubiiwuub fi pava lu ku muik ovrevhi bietuse levi dooja gibdigjis ujuhedu aco esribo ozlapec kawpefu zop law. Witjosju guw higuod adipon ile gahe teisto okarag fe okiihukot evitu mo efiaz.",
+    "bio": "Hegata teec pas jour oto ehijo mupeb rijifkev le dogijre utezowkib firpov rufeku ma risiszej fon. Cabuta hepuhga agwilmi avo gag reap gazek vezsi ekuuco vautgu luk fiita ibpavat ca fe. Faneto zat agaja rimud colug hek uri coj nivolzi uma fez zo awka nopiva hewmup. Ota uz go orasuwu bi tucsa jap famep zorciku kizze jiw marzer hugu nooca hetnuno vad. Goemefew og ranmurat kumob wo hokhaog jen hiswoni es sumu adodeg duhej nidwa pawunawe. Ehates fez dipto awjiw zajto di ludzev boam aw vuavime esizike nadlut cegocati zuhaive wawaha. Las iztar olefe reri gu uwa ib hes toufezoh cur erew kal gaw pidfe vazcuh zadvetaz."
+  },
+  "apiKey": "1fc72956a9f2f6ba07c03e49381e90285039acf0cd562d8df151b2d2169ba71c",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
